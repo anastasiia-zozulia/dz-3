@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student name="Anastasiia" age="22" gender="female">
+    <adult>true</adult>
+    <smoker>false</smoker>
+    <personal_info>
+        <address>
+            <street>Sadova 51</street>
+            <city>Uzhhorod</city>
+            <country>Ukraine</country>
+        </address>
+        <languages>ukrainian</languages>
+        <languages>english</languages>
+        <languages>spanish</languages>
+        <phone_numbers>050 - 505 - 0505</phone_numbers>
+        <phone_numbers>066 - 000 - 6060</phone_numbers>
+    </personal_info>
+    <family>mother</family>
+    <family>father</family>
+    <family>sister</family>
+    <family>grandmother</family>
+    <pet>
+        <name>Loki</name>
+        <kind>dog</kind>
+        <color>black</color>
+        <goodBoy>true</goodBoy>
+    </pet>
+</student>
