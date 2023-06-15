@@ -1,0 +1,32 @@
+{
+	"student": {
+		"name": "Anastasiia",
+		"age": 22,
+		"gender": "female",
+		"adult": true,
+		"smoker": false,
+		"children": null,
+		"personal_info": {
+			"address": {
+				"street": "Sadova 51",
+				"city": "Uzhhorod",
+				"country": "Ukraine"
+			},
+		"languages": [
+			"ukrainian", "english", "spanish"
+			],
+		"phone_numbers": [
+			"050 - 505 - 0505", "066 - 000 - 6060"
+			]
+		},
+		"family": [
+			"mother", "father", "sister", "grandmother"
+		],
+		"pet": {
+			"name": "Loki",
+			"kind": "dog",
+			"color": "black",
+			"goodBoy": true
+		}
+	}
+}
